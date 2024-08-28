@@ -1,7 +1,7 @@
 <div style="max-width: 800px; margin: 0 auto; padding: 20px;" >
 <h2 style="font-size: 55px; text-align: center;"> About Me 😄 </h2>
 <p style="font-size: 24px; text-align: center;">
-⚪ Currently working on my final project for my BSc Computer Science degree: <a href="https://github.com/sympoll" style="text-decoration: none; color: #007bff;"> Sympoll <br>
+⚪ Currently working on my final project for my BSc Computer Science degree: <a href="https://github.com/sympoll" style="text-decoration: none; color: #007bff;"> Sympoll </a> <br>
 ⚪ The technologies I'm using for this project: Springboot | React (TS) | Github Actions | K8s <br>
 
 <h3 style="font-size: 24px;">🟡 Programming languages </h3>
