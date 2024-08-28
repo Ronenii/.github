@@ -1,14 +1,56 @@
-<h1 align="center">Hello there👋, My name is Ronen Gelmanovich but you can call me Ronenii :wink:</h1>
-<h3 align="center">A Multidisciplinary Software Engineer :smile:</h3>
+<div style="max-width: 800px; margin: 0 auto; padding: 20px;" >
+<h2 style="font-size: 55px; text-align: center;"> About Me 😄 </h2>
+<p style="font-size: 24px; text-align: center;">
+⚪ Currently working on my final project for my BSc Computer Science degree: <a href="https://github.com/sympoll" style="text-decoration: none; color: #007bff;"> Sympoll <br>
+⚪ The technologies I'm using for this project: Springboot | React (TS) | Github Actions | K8s <br>
 
-- 🔭 I’m currently working on [Sympoll](https://github.com/sympoll)
+<h3 style="font-size: 24px;">🟡 Programming languages </h3>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="https://skillicons.dev/icons?i=java" alt="Java" style="width: 50px; height: 50px;">
+<img src="https://skillicons.dev/icons?i=python" alt="Python" style="width: 50px; height: 50px;">
+<img src="https://skillicons.dev/icons?i=cs" alt="CS" style="width: 50px; height: 50px;">
+<img src="https://skillicons.dev/icons?i=cpp" alt="CPP" style="width: 50px; height: 50px;">
+<img src="https://skillicons.dev/icons?i=c" alt="C" style="width: 50px; height: 50px;">
+<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="width: 50px; height: 50px;">
+<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width: 50px; height: 50px;">
+</div>
 
-- 📫 Contact me! **ronen.glm@gmail.com**
+<h3 style="font-size: 24px;">🔴 Backend Skills </h3> 
+<div>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=oriteicher&show_icons=true&locale=en&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=150d24" alt="idan-sh" />
+<img src="https://skillicons.dev/icons?i=spring" alt="Spring" style="width: 50px; height: 50px;">
+<img src="https://skillicons.dev/icons?i=maven" alt="Maven" style="width: 50px; height: 50px;">
+<img src="https://skillicons.dev/icons?i=dotnet" alt="DotNet" style="width: 50px; height: 50px;">
+<img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" style="width: 50px; height: 50px;">
+<img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" style="width: 50px; height: 50px;">
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="width: 50px; height: 50px;">
+</div>
+  
+<h3 style="font-size: 24px;">🔵 Frontend Skills </h3> 
+<div>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=oriteicher&show_icons=true&locale=en&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=150d24" alt="idan-sh" />
+<img src="https://skillicons.dev/icons?i=react" alt="React" style="width: 50px; height: 50px;">
+<img src="https://skillicons.dev/icons?i=html" alt="HTML" style="width: 50px; height: 50px;">
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width: 50px; height: 50px;">
+<img src="https://skillicons.dev/icons?i=sass" alt="SASS" style="width: 50px; height: 50px;">
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ronen-gelmanovich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronen-gelmanovich" height="30" width="40" /></a>
-</p>
+<h3 style="font-size: 24px;">🟢 Extras </h3>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="https://skillicons.dev/icons?i=postman" alt="Postman" style="width: 50px; height: 50px;">
+<img src="https://skillicons.dev/icons?i=linux" alt="linux" style="width: 50px; height: 50px;">
+<img src="https://skillicons.dev/icons?i=git" alt="git" style="width: 50px; height: 50px;">
+<img src="https://skillicons.dev/icons?i=github" alt="github" style="width: 50px; height: 50px;">
+<img src="https://skillicons.dev/icons?i=githubactions" alt="Github-Actions" style="width: 50px; height: 50px;">
+<img alt="Postman Badge" src="https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=fff">
+</div>
+<div>
+<h3 style="font-size: 24px;">📞Contact me</h3>
+<a href="https://www.linkedin.com/in/ronen-gelmanovich/" style="text-decoration: none; color: #007bff;">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" style="width: 50px; height: 50px;">
+</a>
+<a href="mailto:ronen.glm@gmail.com" style="text-decoration: none; color: #007bff;">
+<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="width: 50px; height: 50px;">
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
