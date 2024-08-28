@@ -16,7 +16,7 @@
 <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width: 50px; height: 50px;">
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronenii&show_icons=true&locale=en&layout=compact&bg_color=f0ead6&title_color=003366&text_color=002244&border_color=002244" alt="ronenii" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronenii&show_icons=true&locale=en&layout=compact&bg_color=D3D3D3&title_color=003366&text_color=002244&border_color=002244" alt="ronenii" />
 
 <h3 style="font-size: 24px;">🔴 Backend Skills </h3> 
 <div>
