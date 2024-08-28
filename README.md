@@ -15,9 +15,10 @@
 <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width: 50px; height: 50px;">
 </div>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronenii&show_icons=true&locale=en&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=150d24" alt="ronenii" />
+
 <h3 style="font-size: 24px;">🔴 Backend Skills </h3> 
 <div>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=oriteicher&show_icons=true&locale=en&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=150d24" alt="idan-sh" />
 <img src="https://skillicons.dev/icons?i=spring" alt="Spring" style="width: 50px; height: 50px;">
 <img src="https://skillicons.dev/icons?i=maven" alt="Maven" style="width: 50px; height: 50px;">
 <img src="https://skillicons.dev/icons?i=dotnet" alt="DotNet" style="width: 50px; height: 50px;">
@@ -28,7 +29,6 @@
   
 <h3 style="font-size: 24px;">🔵 Frontend Skills </h3> 
 <div>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=oriteicher&show_icons=true&locale=en&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=150d24" alt="idan-sh" />
 <img src="https://skillicons.dev/icons?i=react" alt="React" style="width: 50px; height: 50px;">
 <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="width: 50px; height: 50px;">
 <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width: 50px; height: 50px;">
@@ -42,8 +42,8 @@
 <img src="https://skillicons.dev/icons?i=git" alt="git" style="width: 50px; height: 50px;">
 <img src="https://skillicons.dev/icons?i=github" alt="github" style="width: 50px; height: 50px;">
 <img src="https://skillicons.dev/icons?i=githubactions" alt="Github-Actions" style="width: 50px; height: 50px;">
-<img alt="Postman Badge" src="https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=fff">
 </div>
+
 <div>
 <h3 style="font-size: 24px;">📞Contact me</h3>
 <a href="https://www.linkedin.com/in/ronen-gelmanovich/" style="text-decoration: none; color: #007bff;">
