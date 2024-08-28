@@ -8,10 +8,10 @@
 <h3 style="font-size: 24px;">🟡 Programming languages </h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://skillicons.dev/icons?i=java" alt="Java" style="width: 50px; height: 50px;">
-<img src="https://skillicons.dev/icons?i=python" alt="Python" style="width: 50px; height: 50px;">
 <img src="https://skillicons.dev/icons?i=cs" alt="CS" style="width: 50px; height: 50px;">
 <img src="https://skillicons.dev/icons?i=cpp" alt="CPP" style="width: 50px; height: 50px;">
 <img src="https://skillicons.dev/icons?i=c" alt="C" style="width: 50px; height: 50px;">
+<img src="https://skillicons.dev/icons?i=python" alt="Python" style="width: 50px; height: 50px;">
 <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="width: 50px; height: 50px;">
 <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width: 50px; height: 50px;">
 </div>
